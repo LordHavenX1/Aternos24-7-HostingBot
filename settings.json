@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": LordHavenX1.aternos.me
+    "port": 40695
+    "version": 1.26.3
     "try-creative": false
   },
   "position": {
