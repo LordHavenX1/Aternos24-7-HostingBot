@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip":lordhavenx1.aternos.me
-    "port":16273
-    "version":1.26.0
+    "ip":"LordHavenX1-7erR.aternos.me"
+    "port":16273,
+    "version":"1.26.0"
     "try-creative": false
   },
   "position": {
